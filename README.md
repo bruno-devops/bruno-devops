@@ -1,4 +1,4 @@
-### Opa, Sou o Bruno e bem-vindo ao meu github
+### Bruno Oliveira 
 
 
 - 🔭 Trabalho na Tag Infraestrutura do mercado Financeiro
